@@ -1,5 +1,5 @@
-# Security reporting
+# Security reports
 
-If you believe you have found a security issue in the public service, contact **tesswambui00@gmail.com** with a concise description, affected URL or component, and steps to reproduce. Please do not include real credentials, personal data, or sensitive incident evidence.
+Do not post suspected vulnerabilities, exploit details, credentials, or sensitive user data in public issues or discussions.
 
-Please allow time for investigation and remediation before publicly disclosing a suspected vulnerability. This is a contact route only; no response-time guarantee or bug-bounty program is offered.
+Before making this repository public, enable GitHub's **Private vulnerability reporting** in the repository's **Settings → Code security and analysis**. Use that private channel to submit security reports. This documentation repository is not a monitored emergency-response channel and does not offer a bug bounty or response-time guarantee.
