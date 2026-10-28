@@ -1,4 +1,4 @@
-# Cybersecurity Research Library — Version 1
+# Cybersecurity Research Library: Version 1
 
 Public-facing documentation for the Tess & Co Cybersecurity Research Library.
 
