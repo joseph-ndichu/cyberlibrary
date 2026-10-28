@@ -7,4 +7,3 @@ Visit <https://company.cyberlibrary.workers.dev>.
 - Choose **News** to browse cybersecurity headlines and follow the publisher's source link.
 - Use **About** for a brief description of the library.
 
-The library is for research and learning. It is not an emergency-response service. Do not submit credentials, confidential material, or sensitive incident data through the site.
